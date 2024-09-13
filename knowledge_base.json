@@ -1,3 +1,16 @@
 {
-  "questions": []
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "Hey how can i help!"
+    },
+    {
+      "question": "what is your name?",
+      "answer": "I am BOTv1! your personal assistant!"
+    },
+    {
+      "question": "how old are you?",
+      "answer": "I am 101!"
+    }
+  ]
 }
